@@ -8,11 +8,11 @@ self.__precacheManifest = [
     "url": "/react-hooks-demo/static/js/main.11a84ae4.chunk.js"
   },
   {
-    "revision": "c7dad72523a66bb19e84",
-    "url": "/react-hooks-demo/static/js/1.c7dad725.chunk.js"
+    "revision": "3bdb4c9df7479b38ccda",
+    "url": "/react-hooks-demo/static/js/1.3bdb4c9d.chunk.js"
   },
   {
-    "revision": "9e41bf8f254d22ec7846d66051a10e07",
+    "revision": "e59396dfe1b4dfc208003c8862f8de43",
     "url": "/react-hooks-demo/index.html"
   }
 ];
