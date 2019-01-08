@@ -1,6 +1,6 @@
-# react-hooks-blog
+# react-hooks-demo
 
-React Hooks Blog Post and Demo
+React Hooks Demo
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
